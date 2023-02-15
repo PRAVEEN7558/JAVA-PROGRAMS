@@ -7,7 +7,7 @@ public class Same_repated_array {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the value = ");
 		int g = sc.nextInt();
-		int a[] = new int[g]; // Same repated array
+		int a[] = new int[g];                ///////////    Same repated array   //////////////
 
 		for (int i = 0; i < a.length; i++) {
 			System.out.println("enter the number" + i);

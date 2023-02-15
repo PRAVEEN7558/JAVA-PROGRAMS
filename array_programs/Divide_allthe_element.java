@@ -1,4 +1,4 @@
-package array_programs; //Divide all the elements in an array by 3 and store it in the same array 
+package array_programs; ///////////   Divide all the elements in an array by 3 and store it in the same array   ///////////
 
 import java.util.Scanner;
 

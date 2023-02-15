@@ -8,7 +8,7 @@ public class First_nonrepated_array {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the value = ");
 		int g = sc.nextInt();
-		int a[] = new int[g]; // Program to find first non repeated element in an array?
+		int a[] = new int[g];              // ///////////    Program to find first non repeated element in an array?    /////////
 
 		for (int i = 0; i < a.length; i++) {
 			System.out.println("enter the number" + i);
