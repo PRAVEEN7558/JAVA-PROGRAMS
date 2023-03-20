@@ -7,8 +7,10 @@ public class Subset {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int count = 0;
+		System.out.println("Enter the A length =  ");
 		int k = sc.nextInt();
 		int a[] = new int[k];
+		System.out.println("Enter the B length =  ");
 		int g = sc.nextInt();
 		int b[] = new int[g];
 

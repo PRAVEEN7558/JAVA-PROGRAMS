@@ -14,14 +14,14 @@ public class Minimum_eliment {
 			System.out.println("this is a value =   " + i);
 			a[i] = sc.nextInt();
 		}
-		int min = a[0];
+		int max = a[0];
 		for (int i = 0; i < a.length; i++) {
-			if (min < a[i]) { // (max < a[i] --->maximum) ( min > a[i]---> minimum)
-				min = a[i];
+			if (max < a[i]) { // (max < a[i] --->maximum) ( min > a[i]---> minimum)
+				max = a[i];
 
 			}
 		}
-		System.out.print(min + "   ");
+		System.out.print("maximum element  =" + max + "   ");
 
 	}
 }

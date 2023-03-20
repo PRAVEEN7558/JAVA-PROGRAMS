@@ -2,7 +2,7 @@ package array_programs;
 
 import java.util.Scanner;
 
-//////////////     Rotation of a array  and store it in new array. /////////////  
+//////////////     Rotation of a array  and store it in new array  /////////////  
 public class Rotation_new_array {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
@@ -25,3 +25,4 @@ public class Rotation_new_array {
 		}
 	}
 }
+

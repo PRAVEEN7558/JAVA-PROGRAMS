@@ -2,12 +2,12 @@ package array_programs;
 
 import java.util.Scanner;
 
-public class Same_repated_array {
+public class Same_repeated_array {
 	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the value = ");
 		int g = sc.nextInt();
-		int a[] = new int[g];                ///////////    Same repated array   //////////////
+		int a[] = new int[g];                ///////////    Same repeated array   //////////////
 
 		for (int i = 0; i < a.length; i++) {
 			System.out.println("enter the number" + i);
